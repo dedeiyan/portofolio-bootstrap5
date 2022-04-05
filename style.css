@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ddf3f5;
+}
+
+#projects {
+  background-color: #ddf3f5;
+}
+
+#projects .card:hover {
+  background-color: #ddf3f5;
+  cursor: pointer;
+}
+
+section {
+  padding-top: 5rem;
+}
